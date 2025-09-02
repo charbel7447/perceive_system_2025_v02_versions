@@ -1,6 +1,7 @@
 1: settings;reports;accounting;procurment
-2: reports;
+2: reports;accounting;procurment
 3: settings;reports;accounting
+
 
 
 
