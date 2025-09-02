@@ -1,3 +1,4 @@
-1: acc;proc;produc
-2: acc;proc
-3: acc;produc;sales;inventory
+1: settings;reports;accounting
+2: settings;reports;accounting
+3: settings;reports;accounting
+
