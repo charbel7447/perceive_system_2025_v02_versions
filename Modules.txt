@@ -1,7 +1,8 @@
 1: settings;procurment;reports;accounting
 2: settings;procurment;reports;accounting
-3: booking;settings;procurment;reports;accounting;pos;hr
-4: settings;procurment;reports;accounting
+3: settings;procurment;reports;accounting;booking;pos;hr
+4: settings;procurment;reports;accounting;booking;pos;hr
+
 
 
 
