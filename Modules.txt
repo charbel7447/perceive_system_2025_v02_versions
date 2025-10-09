@@ -3,6 +3,7 @@
 3: settings;procurment;reports;accounting;booking;pos;hr
 4: settings;procurment;reports;accounting
 5: settings;procurment;reports;accounting;production
+6: settings;procurment;reports;accounting;production
 
 
 
