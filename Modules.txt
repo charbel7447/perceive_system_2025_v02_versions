@@ -7,6 +7,7 @@
 7: settings;procurment;reports;accounting
 8: settings;procurment;reports;accounting
 9: settings;procurment;reports;accounting
+9: settings;production
 
 
 
