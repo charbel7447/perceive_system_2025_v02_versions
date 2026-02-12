@@ -6,7 +6,8 @@
 6: settings;procurment;reports;accounting;production
 7: settings;procurment;reports;accounting
 8: settings;procurment;reports;accounting
-9: settings;production;procurment;reports;accounting;industrial
+9: settings;production;procurment;reports;accounting;industrial;hr
+
 
 
 
